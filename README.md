@@ -95,7 +95,7 @@ I obtained my bachelor's degree from Gonabad University, where I developed a com
 
 ## Projects
 
-### (1) Application of R in Remote Sensing
+### (1) Application of R in Remote Sensing (_Dynamics of Vegetation_)
 
 This project illustrates how to read, subset, and process a Sentinel-2 multispectral image while analyzing the dynamics of vegetation in R. [Link](https://github.com/MostafaSaghafi/Application_of_R_in_RemoteSensing.git)
 
