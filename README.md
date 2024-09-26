@@ -12,12 +12,12 @@
 - [**Google Scholar**](https://scholar.google.com/citations?user=4F3m028AAAAJ&hl=en)
 - [**Researchgate**](https://www.researchgate.net/profile/Mostafa-Saghafi-2)
 
-## Education	
+# Education	
 
 - M.S., Water and Hydraulic Structures	| Shahrood University of Technology (_2018-2021_)	 			        		
 - B.S., Civil Engineer | The University of Gonabad (_2014-2018_)
 
-## International Publications
+# International Publications
 
 - Goodarzi,M. Sabaghzadeh,M. Barzkar,A. Niazkar,M. **Saghafi,M.** (_2024_). _**"A comparison of Machine Learning Methods for Estimation of Snow Density Using Satellite Images"**_. Water and Environment Journal. [DOI](https://doi.org/10.1111/wej.12939)
   
@@ -27,15 +27,15 @@
 
 - **Saghafi, M.**, Habibi, S., & Attar, N. _**"A Review of Machine Learning Applications in Harmful Algal Bloom Monitoring and Prediction".**_  (_in progress_)
 
-## National Publications
+# National Publications
 
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (2021). _**"Detecting Surface Water Using Data Fusion of Optical and Radar Remote Sensing Sensor".**_ Journal of Watershed Management Science and Engineering. [DOI](http://jwmsei.ir/article-1-1012-fa.html)
 
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (2021). _**"Detecting Surface Water Using Landsat-8 and Sentinel-2".**_ 12th National Congress of Civil Engineering. [DOI](https://civilica.com/doc/1120644/)
 
-## Research and Work Experience
+# Research and Work Experience
 
-### _Research and Advisor task(s)_:
+## _Research and Advisor task(s)_:
 
 - Ph.D. Thesis " **Improvement on the effective snow cover extraction using fusion satellite images approach (Study area: Tehran)** "
   
@@ -52,15 +52,15 @@
 - M.Sc. Thesis " **Estimation of Land Surface Temperature and Soil Moisture using SMOS and SMAP Satellite** "
   
 
-### _Teaching experience(s)_:
+## _Teaching experience(s)_:
 
 - Application of Remote Sensing | Shahrood University of Technology (_Jan - May 2021_)
   
 - Lecturer of professional article writing and journal refereeing Workshop – (_2021-2023_)
 
-## Honors and Certificates
+# Honors and Certificates
 
-### _Certificates_
+## _Certificates_
 
 - Active reviewer of Journal of Applied Remote Sensing (SPEI.) (_2022-2024_)
   
@@ -70,7 +70,7 @@
   
 - Supervised Learning with Python Certificate (Data Camp Course)  (_2024_)
 
-### _Honors_
+## _Honors_
 
 -	Ranked 3rd among 15 M.Sc. Student of Water and Hydraulic Structure at Shahrood University of Technology (_2021_).
   
@@ -88,14 +88,14 @@
   
 -	The **founder** and **manager** of the Independent International Group of **EnvML Research Hub** (Counseling and supporting students with scientific and research subjects).
 
-## Skills and Interests
+# Skills and Interests
 
-### _Languages_
+## _Languages_
 
 -	Farsi: Native
 -	Academic English: Professional working proficiency
 
-### _Computer Skills_
+## _Computer Skills_
 
 -	Python (Machin learning, and Deep Learning) – _Upper intermediate user_
   
@@ -113,7 +113,7 @@
   
 -	WaterGEMS- _Intermediate user_
 
-### _Areas of expertise and Interests_
+## _Areas of expertise and Interests_
 
 -	Land Use and Land Cover (LULC)
   
@@ -133,29 +133,29 @@
   
 -	Remote Sensing Data Fusion and Decision Fusion (_Ensembled Approaches_)
 
-### _Personal Interests_
+## _Personal Interests_
 
 -	Book reading- Mountain climbing – Cycling – Swimming
 
-## Projects
+# Projects
 
-### (1) Application of R in Remote Sensing (_Dynamics of Vegetation_)
+## (1) Application of R in Remote Sensing (_Dynamics of Vegetation_)
 [View](https://github.com/MostafaSaghafi/Application_of_R_in_RemoteSensing.git)
 This project illustrates how to read, subset, and process a Sentinel-2 multispectral image while analyzing the dynamics of vegetation in R. 
 
-### (2) Extracting Brightness Temperature from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates 
+## (2) Extracting Brightness Temperature from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates 
 [View](https://github.com/MostafaSaghafi/Level3_SMOS_Brightness_Temperature.git)
 <p align="justify">The extraction of brightness temperature data from Level 3 SMOS NetCDF files using Python enables researchers to leverage satellite data for various environmental and climatic studies. By utilizing libraries such as netCDF4, numpy, and pandas, this method efficiently retrieves parameters of interest for multiple geographic coordinates. This approach not only enhances data accessibility but also promotes broader applications of satellite-derived observations in understanding terrestrial and marine systems. Future enhancements may involve integrating additional data processing techniques or user interfaces for enhanced usability in research environments.</p> 
 
-### (3) Extracting Soil Moisture, Water Content, and Optical Thickness NAD from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates
+## (3) Extracting Soil Moisture, Water Content, and Optical Thickness NAD from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates
 [View](https://github.com/MostafaSaghafi/Level3_SMOS_Soil_Moisture.git)
 <p align="justify">Extracting soil moisture, water content, and optical thickness data from Level 3 SMOS (Soil Moisture and Ocean Salinity) NetCDF files involves using Python libraries such as NetCDF4 and NumPy. This process requires first opening the NetCDF file and identifying the relevant variables related to soil moisture and optical thickness. By specifying the desired geographical coordinates, users can subset the data to extract specific measurements. Through careful manipulation of the datasets, one can effectively analyze the soil moisture and water content, providing valuable insights for agronomic and hydrological studies. This method promotes a deeper understanding and application of satellite-derived environmental data.</p> 
 
-### (4) Harmful Algal Bloom (HAB) Classification Using Sentinel2 Dataset
+## (4) Harmful Algal Bloom (HAB) Classification Using Sentinel2 Dataset
 [View](https://github.com/MostafaSaghafi/Harmful_Algal_Bloom_HAB_Classification_Sentinel2_Data.git)
 <p align="justify">This project details the process of classifying Harmful Algal Blooms (HAB) using Sentinel-2 satellite imagery. The workflow encompasses data preparation, image processing, chlorophyll index calculation, and machine learning classification techniques.</p> 
 
-### (5) Calculate the SPI SPEI Drought Index (NetCDF Files)
+## (5) Calculate the SPI SPEI Drought Index (NetCDF Files)
 [View](https://github.com/MostafaSaghafi/SPI_SPEI_NetCDF.git)
 <p align="justify">The process of calculating the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI) consists of several steps that utilize NetCDF (.nc) files. First, the NetCDF files are read to extract relevant variables, including precipitation and temperature data. Next, graphical plots of the extracted data can be generated to visualize trends. The data is then exported to a .CSV file for further analysis. Subsequently, the SPI is computed using precipitation data over a specified time scale, while the SPEI is calculated by incorporating both precipitation and potential evapotranspiration, enabling a comprehensive assessment of drought conditions.</p> 
 
@@ -175,7 +175,7 @@ This project illustrates how to read, subset, and process a Sentinel-2 multispec
 [View](https://github.com/MostafaSaghafi/Bfast_NBR.git)
 <p align="justify">The detection of wildfire trends can be effectively accomplished through the integration of the Normalized Burn Ratio (NBR) index and the Breaks For Additive Season and Trend (BFAST) algorithm. The NBR index acts as a robust tool for identifying burned areas by analyzing satellite imagery, while BFAST aids in detecting abrupt changes in time-series data, enabling researchers to accurately pinpoint disturbances. Implementing these methods in R allows for the visualization of the number of detected disturbances over time, offering critical insights into wildfire patterns and their implications for ecosystem management and policy planning.</p> 
 
-## References
+# References
 
 -	**Dr. Ahmad Ahmadi**, Associate Professor, Thesis Supervisor, Department of Civil Engineering, University of Shahrood, Iran. | Email: a.ahmadi@shahroodut.ac.ir
 
