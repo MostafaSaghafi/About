@@ -13,7 +13,74 @@ I obtained my bachelor's degree from Gonabad University, where I developed a com
 ## International Publications
 - Goodarzi,M. Sabaghzadeh,M. Barzkar,A. Niazkar,M. **Saghafi,M.** (_2024_). _**"A comparison of Machine Learning Methods for Estimation of Snow Density Using Satellite Images"**_. Water and Environment Journal. [DOI](https://doi.org/10.1111/wej.12939)
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (_2021_). _**"Sentinel-1 and Sentinel-2 data fusion system for surface water extraction"**_. Journal of Applied Remote Sensing, 15(1), 14521. [DOI](https://doi.org/10.1117/1.JRS.15.014521)
-- **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. _**"Improving Flood Detection Accuracy: A Synergistic Approach Using Remote Sensing and Machine Learning."**_  (Submitted)
+- **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. _**"Improving Flood Detection Accuracy: A Synergistic Approach Using Remote Sensing and Machine Learning."**_  (_Submitted_)
+- **Saghafi, M.**, Habibi, S., & Attar, N. _**"A Review of Machine Learning Applications in Harmful Algal Bloom Monitoring and Prediction".**_  (_in progress_)
+
+## National Publications
+- **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (2021). _**"Detecting Surface Water Using Data Fusion of Optical and Radar Remote Sensing Sensor".**_ Journal of Watershed Management Science and Engineering. [DOI](http://jwmsei.ir/article-1-1012-fa.html)
+- **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (2021). _**"Detecting Surface Water Using Landsat-8 and Sentinel-2".**_ 12th National Congress of Civil Engineering. [DOI](https://civilica.com/doc/1120644/)
+
+
+## Research and Work Experience
+### _Research and Advisor task(s)_:
+- Ph.D. Thesis " Improvement on the effective snow cover extraction using fusion satellite images approach (Study area: Tehran) "
+- Ph.D. Thesis " An improved forest fire detection method based on the NBR index and BFAST Algorithm "
+- Ph.D. Thesis " Onset Prediction of HABs Using Threshold Indices and Application of Remote Sensing in Band Ratio Algorithms to Estimate Phycocyanin and Phosphorus Concentration (Case Study: Sherbrook Lake, Canada) "
+- M.Sc. Thesis " Investigation of Alterations of Porphyry Molybdenum and Gold Deposits Using Landsat-8 and Sentinel-2 Images to Explore Porphyry Deposits "
+- M.Sc. Thesis " Investigation of Water Level of Urmia Lake Using Fusion of Multiple Remote Sensing Data Time Series "
+- M.Sc. Thesis " Earthquake Hazard Zoning Using Machine Learning and Decision Fusion (Study area: Tehran) "
+- M.Sc. Thesis " Estimation of Land Surface Temperature and Soil Moisture using SMOS and SMAP Satellite "
+
+### _Teaching experience(s)_:
+- Application of Remote Sensing | Shahrood University of Technology (_Jan - May 2021_)
+- Lecturer of professional article writing and journal refereeing Workshop – (_2021-2023_)
+
+## Honors and Certificates
+### _Certificates_
+- Active reviewer of Journal of Applied Remote Sensing (SPEI.) (_2022-2024_)
+- Attend and participate in Applications/ Limitations of AI and Machine Learning Water Research Foundation webinar (_May 2021_)
+- Presenting the article orally in 12 National Civil Conferences. (_2021_)
+- Supervised Learning with Python Certificate (Data Camp Course)  (_2024_)
+
+### _Honors_
+-	Ranked **3rd** among 15 M.Sc. Student of Water and Hydraulic Structure at Shahrood University of Technology (_2021_).
+-	Candidate of the Best Young Researcher at Shahrood University of Technology (_2021_).
+-	The youngest advisor in the application of remote sensing at Shahrood University of Technology (_2020-2021_).
+-	Owner of a [YouTube](https://youtube.com/@earthremotesensing?si=CBD-gXZVMCQR_cJH) channel about the application of remote sensing.
+- Organizer of the workshop on the application of machine learning in remote sensing (Detecting Harmful Algal Blooms). [Link](https://youtu.be/3-1PjlqYISs?si=0103hYRDSgdqVxIw)
+-	The organizer of the Journal Club course to review and clarify recent articles related to the Environment, Remote sensing, and Machine Learning. [Link](https://youtu.be/DgX9l2LlzPY?si=ULge6kRVBUi6rvyi)
+-	Organizer of three successful workshops about professional article writing and journal refereeing.
+-	The **founder** and **manager** of the Independent International Group of **EnvML Research Hub** (Counseling and supporting students with scientific and research subjects).
+
+
+## Skills and Interests
+### _Languages_
+-	Farsi: Native
+-	Academic English: Professional working proficiency
+
+### _Computer Skills_
+-	Python (Machin learning, and Deep Learning) – _Upper intermediate user_
+-	R Programming language – _Upper Intermediate user_
+-	Google Earth Engine (GEE) – _Intermediate user_
+-	MATLAB - _Intermediate user_
+-	ENVI - _Upper intermediate user_
+-	SNAP-ESA – _Upper intermediate user_
+-	ArcGIS and QGIS – _Intermediate user_
+-	WaterGEMS- _Intermediate user_
+
+### _Areas of expertise and Interests_
+-	Land Use and Land Cover (LULC)
+-	Climate Change Modeling
+-	Time Series Analysis of Surface Water, Snow, Vegetation, Wildfire, and Flooded Areas
+-	Natural disaster zoning with machine learning
+-	Land subsidence detecting and monitoring
+-	Application of machine learning in climate changes
+-	Landsat data series, Sentinel-2, Sentinel-1, MODIS, SMOS, and SMAP products
+-	Supervised and Unsupervised Land Classifications / Regressions (_Machine Learning Approaches_)
+-	Remote Sensing Data Fusion and Decision Fusion (_Ensembled Approaches_)
+
+### _Personal Interests_
+-	Book reading- Mountain climbing – Cycling – Swimming
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -30,25 +97,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## References
+-	**Dr. Ahmad Ahmadi**, Associate Professor, Thesis Supervisor, Department of Civil Engineering, University of Shahrood, Iran. [Email: a.ahmadi@shahroodut.ac.ir](a.ahmadi@shahroodut.ac.ir)
+-	Dr. Behnaz Bigdeli, Assistant Professor, Thesis Supervisor, Department of Photogrammetry and Remote Sensing, University of Shahrood, Iran [Email: bigdeli@shahroodut.ac.ir](bigdeli@shahroodut.ac.ir)
+-	Dr. Nasrin Fathollahzadeh Attar, Ph.D. of Water Resources Engineering, University of Padova, Italy [Email: nasrin.fathollahzadehattar@unipd.it](nasrin.fathollahzadehattar@unipd.it)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
