@@ -1,20 +1,19 @@
 # About
 
-##### I am Mostafa, the manager and founding member of the independent international DaneshjooYar group. Throughout my academic and professional career, I have developed a strong enthusiasm for tackling the challenges in multidisciplinary disciplines. My experience has included navigating challenges that have influenced my approach to solutions. I really think that critical thinking is necessary to break apart difficult problems into doable parts. Using energy and tenacity as my compass, I have overcome several obstacles that have presented themselves.Besides, I understand how crucial good communication is to reaching team goals. Strong relationships encourage cooperation and creativity—qualities that are critical for any group's success. I am dedicated to using these principles at DaneshjooYar as we work to have a significant impact in our different fields.
+I am Mostafa, the manager and founding member of the independent international DaneshjooYar group. Throughout my academic and professional career, I have developed a strong enthusiasm for tackling the challenges in multidisciplinary disciplines. My experience has included navigating challenges that have influenced my approach to solutions. I really think that critical thinking is necessary to break apart difficult problems into doable parts. Using energy and tenacity as my compass, I have overcome several obstacles that have presented themselves.Besides, I understand how crucial good communication is to reaching team goals. Strong relationships encourage cooperation and creativity—qualities that are critical for any group's success. I am dedicated to using these principles at DaneshjooYar as we work to have a significant impact in our different fields.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+# My background and history
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+I obtained my bachelor's degree from Gonabad University, where I developed a comprehensive comprehension of the fundamental principles of civil engineering. This fundamental experience served as the foundation for my master's degree at Shahrood University of Technology, during which I furthered my understanding of hydraulic structures and water engineering. During my master's studies, I had the opportunity to work on research with distinguished professors Ahmad Ahmadi and Behnaz Bigdeli. My thesis, **"Surface Water Body Detection and Flood Monitoring Using Fusion of Multiple Remote Sensing Data"**, examined novel methods for monitoring water bodies and assessing flood risks. The primary concept of my research emphasized the advantages of fusion multispectral sensors and Synthetic Aperture Radar (SAR) to monitor flood events and detect surface water. We used a comprehensive approach that included data fusion, time series analysis, supervised machine learning techniques, and decision making to improve the accuracy and usefulness of systems meant to detect surface water and monitor floods. This work not only enhanced the academic community's knowledge but also underscored the critical role that advanced technologies play in addressing water management challenges. I remain committed to leveraging my academic background and research experience to contribute to the advancement of environmental disaster and civil engineering as I progress in my professional life. 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Education								       		
+- M.S., Water and Hydraulic Structures	| Shahrood University of Technology (_2018-2021_)	 			        		
+- B.S., Civil Engineer | The University of Gonabad (_2014-2018_)
+
+## International Publications
+- Goodarzi,M. Sabaghzadeh,M. Barzkar,A. Niazkar,M. **Saghafi,M.** (_2024_). _**"A comparison of Machine Learning Methods for Estimation of Snow Density Using Satellite Images"**_. Water and Environment Journal. [DOI](https://doi.org/10.1111/wej.12939)
+- **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (_2021_). _**"Sentinel-1 and Sentinel-2 data fusion system for surface water extraction"**_. Journal of Applied Remote Sensing, 15(1), 14521. [DOI](https://doi.org/10.1117/1.JRS.15.014521)
+- **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. _**"Improving Flood Detection Accuracy: A Synergistic Approach Using Remote Sensing and Machine Learning."**_  (Submitted)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
