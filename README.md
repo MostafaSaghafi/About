@@ -6,6 +6,12 @@ I am Mostafa, the manager and founding member of the independent international D
 
 I obtained my bachelor's degree from Gonabad University, where I developed a comprehensive comprehension of the fundamental principles of civil engineering. This fundamental experience served as the foundation for my master's degree at Shahrood University of Technology, during which I furthered my understanding of hydraulic structures and water engineering. During my master's studies, I had the opportunity to work on research with distinguished professors Ahmad Ahmadi and Behnaz Bigdeli. My thesis, **"Surface Water Body Detection and Flood Monitoring Using Fusion of Multiple Remote Sensing Data"**, examined novel methods for monitoring water bodies and assessing flood risks. The primary concept of my research emphasized the advantages of fusion multispectral sensors and Synthetic Aperture Radar (SAR) to monitor flood events and detect surface water. We used a comprehensive approach that included data fusion, time series analysis, supervised machine learning techniques, and decision making to improve the accuracy and usefulness of systems meant to detect surface water and monitor floods. This work not only enhanced the academic community's knowledge but also underscored the critical role that advanced technologies play in addressing water management challenges. I remain committed to leveraging my academic background and research experience to contribute to the advancement of environmental disaster and civil engineering as I progress in my professional life. 
 
+# Contact Information
+
+- [LinkedIn](http://www.linkedin.com/in/mostafa-saghafi)
+- [Google Scholar](https://scholar.google.com/citations?user=4F3m028AAAAJ&hl=en)
+- [Researchgate](https://www.researchgate.net/profile/Mostafa-Saghafi-2)
+
 ## Education	
 
 - M.S., Water and Hydraulic Structures	| Shahrood University of Technology (_2018-2021_)	 			        		
