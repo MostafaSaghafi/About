@@ -1,6 +1,6 @@
-# Data Scientist
+# About
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+##### I am Mostafa, the manager and founding member of the independent international DaneshjooYar group. Throughout my academic and professional career, I have developed a strong enthusiasm for tackling the challenges in multidisciplinary disciplines. My experience has included navigating challenges that have influenced my approach to solutions. I really think that critical thinking is necessary to break apart difficult problems into doable parts. Using energy and tenacity as my compass, I have overcome several obstacles that have presented themselves.Besides, I understand how crucial good communication is to reaching team goals. Strong relationships encourage cooperation and creativity—qualities that are critical for any group's success. I am dedicated to using these principles at DaneshjooYar as we work to have a significant impact in our different fields.
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
