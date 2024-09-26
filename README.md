@@ -139,48 +139,40 @@
 ## Projects
 
 ### (1) Application of R in Remote Sensing (_Dynamics of Vegetation_)
+[View](https://github.com/MostafaSaghafi/Application_of_R_in_RemoteSensing.git)
+This project illustrates how to read, subset, and process a Sentinel-2 multispectral image while analyzing the dynamics of vegetation in R. 
 
-This project illustrates how to read, subset, and process a Sentinel-2 multispectral image while analyzing the dynamics of vegetation in R. [Link](https://github.com/MostafaSaghafi/Application_of_R_in_RemoteSensing.git)
-
-### (2) Extracting Brightness Temperature from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates
-
+### (2) Extracting Brightness Temperature from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates 
+[View](https://github.com/MostafaSaghafi/Level3_SMOS_Brightness_Temperature.git)
 <p align="justify">The extraction of brightness temperature data from Level 3 SMOS NetCDF files using Python enables researchers to leverage satellite data for various environmental and climatic studies. By utilizing libraries such as netCDF4, numpy, and pandas, this method efficiently retrieves parameters of interest for multiple geographic coordinates. This approach not only enhances data accessibility but also promotes broader applications of satellite-derived observations in understanding terrestrial and marine systems. Future enhancements may involve integrating additional data processing techniques or user interfaces for enhanced usability in research environments.</p> 
-[Link](https://github.com/MostafaSaghafi/Level3_SMOS_Brightness_Temperature.git)
 
 ### (3) Extracting Soil Moisture, Water Content, and Optical Thickness NAD from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates
-
+[View](https://github.com/MostafaSaghafi/Level3_SMOS_Soil_Moisture.git)
 <p align="justify">Extracting soil moisture, water content, and optical thickness data from Level 3 SMOS (Soil Moisture and Ocean Salinity) NetCDF files involves using Python libraries such as NetCDF4 and NumPy. This process requires first opening the NetCDF file and identifying the relevant variables related to soil moisture and optical thickness. By specifying the desired geographical coordinates, users can subset the data to extract specific measurements. Through careful manipulation of the datasets, one can effectively analyze the soil moisture and water content, providing valuable insights for agronomic and hydrological studies. This method promotes a deeper understanding and application of satellite-derived environmental data.</p> 
-[Link](https://github.com/MostafaSaghafi/Level3_SMOS_Soil_Moisture.git)
 
 ### (4) Harmful Algal Bloom (HAB) Classification Using Sentinel2 Dataset
-
+[View](https://github.com/MostafaSaghafi/Harmful_Algal_Bloom_HAB_Classification_Sentinel2_Data.git)
 <p align="justify">This project details the process of classifying Harmful Algal Blooms (HAB) using Sentinel-2 satellite imagery. The workflow encompasses data preparation, image processing, chlorophyll index calculation, and machine learning classification techniques.</p> 
-[Link](https://github.com/MostafaSaghafi/Harmful_Algal_Bloom_HAB_Classification_Sentinel2_Data.git)
 
 ### (5) Calculate the SPI SPEI Drought Index (NetCDF Files)
-
+[View](https://github.com/MostafaSaghafi/SPI_SPEI_NetCDF.git)
 <p align="justify">The process of calculating the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI) consists of several steps that utilize NetCDF (.nc) files. First, the NetCDF files are read to extract relevant variables, including precipitation and temperature data. Next, graphical plots of the extracted data can be generated to visualize trends. The data is then exported to a .CSV file for further analysis. Subsequently, the SPI is computed using precipitation data over a specified time scale, while the SPEI is calculated by incorporating both precipitation and potential evapotranspiration, enabling a comprehensive assessment of drought conditions.</p> 
-[Link](https://github.com/MostafaSaghafi/SPI_SPEI_NetCDF.git)
 
 ## (6) Harmful Algal Blooms (HAB) Change detection uding machine learning approach
-
+[View](https://github.com/MostafaSaghafi/Harmful_Algal_Blooms_Chang_Detection_Using_Machine_Learning_Approache_.git)
 <p align="justify">Harmful algal blooms (HABs) present significant ecological and public health risks, necessitating effective monitoring and management strategies. Recent advancements in machine learning techniques have demonstrated promise in improving change detection of HABs by analyzing extensive datasets from satellite imagery and in situ measurements. These methods allow for the identification of bloom patterns and their dynamics with greater accuracy and timeliness. By utilizing algorithms such as convolutional neural networks and support vector machines, researchers can create predictive models that support early warning systems, ultimately leading to enhanced resource allocation and mitigation efforts to protect water quality and ecosystem health.</p> 
-[Link](https://github.com/MostafaSaghafi/Harmful_Algal_Blooms_Chang_Detection_Using_Machine_Learning_Approache_.git)
 
 ## (7) SDI Streamflow Drought Index in R
-
+[View](https://github.com/MostafaSaghafi/SDI_Streamflow_Drought_Index.git)
 <p align="justify">The Streamflow Drought Index (SDI) is an essential tool for evaluating hydrological drought conditions by quantifying streamflow deficits over time. Utilizing the SDI in R enables researchers and water resource managers to apply efficient coding techniques for processing and analyzing streamflow data. By harnessing R's extensive libraries, such as _**zoo**_ and _**dplyr**_, users can compute SDI values, visualize trends, and make informed decisions about water management and conservation strategies. This analytical approach deepens our understanding of drought dynamics and supports proactive measures to alleviate the impacts of water scarcity.</p> 
-[Link](https://github.com/MostafaSaghafi/SDI_Streamflow_Drought_Index.git)
 
 ## (8) Shaded Plot for the Climate Model Intercomparison Project (CMIP) in R
-
+[View](https://github.com/MostafaSaghafi/Shaded_Plot_CIMP_Models.git)
 <p align="justify">Shaded Plot for Climate Model The Shaded Plot for the Climate Model Intercomparison Project (CMIP) in R serves as a vital visualization tool for comparing outputs from various climate models. By incorporating uncertainty through shading, this technique effectively emphasizes variations among different models, thereby enhancing the interpretability of results. By utilizing packages like ggplot2 and gridExtra, researchers can generate dynamic and informative plots that illustrate model performance over time. This method not only promotes a clearer understanding of climate projections but also supports the evaluation of model robustness, guiding policy decisions and scientific discussions in climate research.</p> 
-[Link](https://github.com/MostafaSaghafi/Shaded_Plot_CIMP_Models.git)
 
 ## (9)  Detection of Wildfire Trends Using NBR index and the BFAST Algorithm in R
-
+[View](https://github.com/MostafaSaghafi/Bfast_NBR.git)
 <p align="justify">The detection of wildfire trends can be effectively accomplished through the integration of the Normalized Burn Ratio (NBR) index and the Breaks For Additive Season and Trend (BFAST) algorithm. The NBR index acts as a robust tool for identifying burned areas by analyzing satellite imagery, while BFAST aids in detecting abrupt changes in time-series data, enabling researchers to accurately pinpoint disturbances. Implementing these methods in R allows for the visualization of the number of detected disturbances over time, offering critical insights into wildfire patterns and their implications for ecosystem management and policy planning.</p> 
-[Link](https://github.com/MostafaSaghafi/Bfast_NBR.git)
 
 ## References
 
