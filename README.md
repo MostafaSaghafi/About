@@ -1,6 +1,6 @@
 # About
 
-<p align="justify">I am Mostafa, the manager and founding member of the independent international DaneshjooYar group. Throughout my academic and professional career, I have developed a strong enthusiasm for tackling the challenges in multidisciplinary disciplines. My experience has included navigating challenges that have influenced my approach to solutions. I really think that critical thinking is necessary to break apart difficult problems into doable parts. Using energy and tenacity as my compass, I have overcome several obstacles that have presented themselves.Besides, I understand how crucial good communication is to reaching team goals. Strong relationships encourage cooperation and creativity—qualities that are critical for any group's success. I am dedicated to using these principles at DaneshjooYar as we work to have a significant impact in our different fields.</p>
+<p align="justify">I am Mostafa, the manager and founding member of the Independent International Group for EnvML Research Hub. Throughout my academic and professional career, I have developed a strong enthusiasm for tackling the challenges in multidisciplinary disciplines. My experience has included navigating challenges that have influenced my approach to solutions. I really think that critical thinking is necessary to break apart difficult problems into doable parts. Using energy and tenacity as my compass, I have overcome several obstacles that have presented themselves.Besides, I understand how crucial good communication is to reaching team goals. Strong relationships encourage cooperation and creativity—qualities that are critical for any group's success. I am dedicated to using these principles at DaneshjooYar as we work to have a significant impact in our different fields.</p>
 
 # My background and history
 
@@ -141,7 +141,7 @@
 
 ### (1) Application of R in Remote Sensing (_Dynamics of Vegetation_)
 [View](https://github.com/MostafaSaghafi/Application_of_R_in_RemoteSensing.git)
-This project illustrates how to read, subset, and process a Sentinel-2 multispectral image while analyzing the dynamics of vegetation in R. 
+<p align="justify">This project illustrates how to read, subset, and process a Sentinel-2 multispectral image while analyzing the dynamics of vegetation in R.</p> 
 
 ### (2) Extracting Brightness Temperature from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates 
 [View](https://github.com/MostafaSaghafi/Level3_SMOS_Brightness_Temperature.git)
