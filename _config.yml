@@ -1,5 +1,6 @@
 title: Mostafa Saghafi
 logo: /assets/img/MS1.png
-description: Climate Change- Remote Sensing- Machine Learning 
-show_downloads: true
+description: Climate Change- Remote Sensing- Machine Learning
+df: ghlgl
+show_downloads: false
 theme: jekyll-theme-minimal
