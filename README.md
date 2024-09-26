@@ -27,13 +27,13 @@ I obtained my bachelor's degree from Gonabad University, where I developed a com
 
 ### _Research and Advisor task(s)_:
 
-- Ph.D. Thesis " Improvement on the effective snow cover extraction using fusion satellite images approach (Study area: Tehran) "
-- Ph.D. Thesis " An improved forest fire detection method based on the NBR index and BFAST Algorithm "
-- Ph.D. Thesis " Onset Prediction of HABs Using Threshold Indices and Application of Remote Sensing in Band Ratio Algorithms to Estimate Phycocyanin and Phosphorus Concentration (Case Study: Sherbrook Lake, Canada) "
-- M.Sc. Thesis " Investigation of Alterations of Porphyry Molybdenum and Gold Deposits Using Landsat-8 and Sentinel-2 Images to Explore Porphyry Deposits "
-- M.Sc. Thesis " Investigation of Water Level of Urmia Lake Using Fusion of Multiple Remote Sensing Data Time Series "
-- M.Sc. Thesis " Earthquake Hazard Zoning Using Machine Learning and Decision Fusion (Study area: Tehran) "
-- M.Sc. Thesis " Estimation of Land Surface Temperature and Soil Moisture using SMOS and SMAP Satellite "
+- Ph.D. Thesis " **Improvement on the effective snow cover extraction using fusion satellite images approach (Study area: Tehran)** "
+- Ph.D. Thesis " **An improved forest fire detection method based on the NBR index and BFAST Algorithm** "
+- Ph.D. Thesis " **Onset Prediction of HABs Using Threshold Indices and Application of Remote Sensing in Band Ratio Algorithms to Estimate Phycocyanin and Phosphorus Concentration (Case Study: Sherbrook Lake, Canada)** "
+- M.Sc. Thesis " **Investigation of Alterations of Porphyry Molybdenum and Gold Deposits Using Landsat-8 and Sentinel-2 Images to Explore Porphyry Deposits** "
+- M.Sc. Thesis " **Investigation of Water Level of Urmia Lake Using Fusion of Multiple Remote Sensing Data Time Series** "
+- M.Sc. Thesis " **Earthquake Hazard Zoning Using Machine Learning and Decision Fusion (Study area: Tehran)** "
+- M.Sc. Thesis " **Estimation of Land Surface Temperature and Soil Moisture using SMOS and SMAP Satellite** "
 
 ### _Teaching experience(s)_:
 
