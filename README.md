@@ -175,7 +175,7 @@
 [View](https://github.com/MostafaSaghafi/Bfast_NBR.git)
 <p align="justify">The detection of wildfire trends can be effectively accomplished through the integration of the Normalized Burn Ratio (NBR) index and the Breaks For Additive Season and Trend (BFAST) algorithm. The NBR index acts as a robust tool for identifying burned areas by analyzing satellite imagery, while BFAST aids in detecting abrupt changes in time-series data, enabling researchers to accurately pinpoint disturbances. Implementing these methods in R allows for the visualization of the number of detected disturbances over time, offering critical insights into wildfire patterns and their implications for ecosystem management and policy planning.</p> 
 
-## References
+# References
 
 -	**Dr. Ahmad Ahmadi**, Associate Professor, Thesis Supervisor, Department of Civil Engineering, Shahrood University of Technology, Iran. | Email: a.ahmadi@shahroodut.ac.ir
 
