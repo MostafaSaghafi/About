@@ -20,13 +20,17 @@ I obtained my bachelor's degree from Gonabad University, where I developed a com
 ## International Publications
 
 - Goodarzi,M. Sabaghzadeh,M. Barzkar,A. Niazkar,M. **Saghafi,M.** (_2024_). _**"A comparison of Machine Learning Methods for Estimation of Snow Density Using Satellite Images"**_. Water and Environment Journal. [DOI](https://doi.org/10.1111/wej.12939)
+  
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (_2021_). _**"Sentinel-1 and Sentinel-2 data fusion system for surface water extraction"**_. Journal of Applied Remote Sensing, 15(1), 14521. [DOI](https://doi.org/10.1117/1.JRS.15.014521)
+  
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. _**"Improving Flood Detection Accuracy: A Synergistic Approach Using Remote Sensing and Machine Learning."**_  (_Submitted_)
+
 - **Saghafi, M.**, Habibi, S., & Attar, N. _**"A Review of Machine Learning Applications in Harmful Algal Bloom Monitoring and Prediction".**_  (_in progress_)
 
 ## National Publications
 
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (2021). _**"Detecting Surface Water Using Data Fusion of Optical and Radar Remote Sensing Sensor".**_ Journal of Watershed Management Science and Engineering. [DOI](http://jwmsei.ir/article-1-1012-fa.html)
+
 - **Saghafi, M.**, Ahmadi, A., & Bigdeli, B. (2021). _**"Detecting Surface Water Using Landsat-8 and Sentinel-2".**_ 12th National Congress of Civil Engineering. [DOI](https://civilica.com/doc/1120644/)
 
 ## Research and Work Experience
@@ -34,35 +38,53 @@ I obtained my bachelor's degree from Gonabad University, where I developed a com
 ### _Research and Advisor task(s)_:
 
 - Ph.D. Thesis " **Improvement on the effective snow cover extraction using fusion satellite images approach (Study area: Tehran)** "
+  
 - Ph.D. Thesis " **An improved forest fire detection method based on the NBR index and BFAST Algorithm** "
+  
 - Ph.D. Thesis " **Onset Prediction of HABs Using Threshold Indices and Application of Remote Sensing in Band Ratio Algorithms to Estimate Phycocyanin and Phosphorus Concentration (Case Study: Sherbrook Lake, Canada)** "
+  
 - M.Sc. Thesis " **Investigation of Alterations of Porphyry Molybdenum and Gold Deposits Using Landsat-8 and Sentinel-2 Images to Explore Porphyry Deposits** "
+  
 - M.Sc. Thesis " **Investigation of Water Level of Urmia Lake Using Fusion of Multiple Remote Sensing Data Time Series** "
+  
 - M.Sc. Thesis " **Earthquake Hazard Zoning Using Machine Learning and Decision Fusion (Study area: Tehran)** "
+  
 - M.Sc. Thesis " **Estimation of Land Surface Temperature and Soil Moisture using SMOS and SMAP Satellite** "
+  
 
 ### _Teaching experience(s)_:
 
 - Application of Remote Sensing | Shahrood University of Technology (_Jan - May 2021_)
+  
 - Lecturer of professional article writing and journal refereeing Workshop – (_2021-2023_)
 
 ## Honors and Certificates
 
 ### _Certificates_
 - Active reviewer of Journal of Applied Remote Sensing (SPEI.) (_2022-2024_)
+  
 - Attend and participate in Applications/ Limitations of AI and Machine Learning Water Research Foundation webinar (_May 2021_)
+  
 - Presenting the article orally in 12 National Civil Conferences. (_2021_)
+  
 - Supervised Learning with Python Certificate (Data Camp Course)  (_2024_)
 
 ### _Honors_
 
 -	Ranked **3rd** among 15 M.Sc. Student of Water and Hydraulic Structure at Shahrood University of Technology (_2021_).
+  
 -	Candidate of the Best Young Researcher at Shahrood University of Technology (_2021_).
+  
 -	The youngest advisor in the application of remote sensing at Shahrood University of Technology (_2020-2021_).
+  
 -	Owner of a [YouTube](https://youtube.com/@earthremotesensing?si=CBD-gXZVMCQR_cJH) channel about the application of remote sensing.
+  
 - Organizer of the workshop on the application of machine learning in remote sensing (Detecting Harmful Algal Blooms). [Link](https://youtu.be/3-1PjlqYISs?si=0103hYRDSgdqVxIw)
+  
 -	The organizer of the Journal Club course to review and clarify recent articles related to the Environment, Remote sensing, and Machine Learning. [Link](https://youtu.be/DgX9l2LlzPY?si=ULge6kRVBUi6rvyi)
+  
 -	Organizer of three successful workshops about professional article writing and journal refereeing.
+  
 -	The **founder** and **manager** of the Independent International Group of **EnvML Research Hub** (Counseling and supporting students with scientific and research subjects).
 
 ## Skills and Interests
@@ -75,24 +97,39 @@ I obtained my bachelor's degree from Gonabad University, where I developed a com
 ### _Computer Skills_
 
 -	Python (Machin learning, and Deep Learning) – _Upper intermediate user_
+  
 -	R Programming language – _Upper Intermediate user_
+  
 -	Google Earth Engine (GEE) – _Intermediate user_
+  
 -	MATLAB - _Intermediate user_
+  
 -	ENVI - _Upper intermediate user_
+  
 -	SNAP-ESA – _Upper intermediate user_
+  
 -	ArcGIS and QGIS – _Intermediate user_
+  
 -	WaterGEMS- _Intermediate user_
 
 ### _Areas of expertise and Interests_
 
 -	Land Use and Land Cover (LULC)
+  
 -	Climate Change Modeling
+  
 -	Time Series Analysis of Surface Water, Snow, Vegetation, Wildfire, and Flooded Areas
+  
 -	Natural disaster zoning with machine learning
+  
 -	Land subsidence detecting and monitoring
+  
 -	Application of machine learning in climate changes
+  
 -	Landsat data series, Sentinel-2, Sentinel-1, MODIS, SMOS, and SMAP products
+  
 -	Supervised and Unsupervised Land Classifications / Regressions (_Machine Learning Approaches_)
+  
 -	Remote Sensing Data Fusion and Decision Fusion (_Ensembled Approaches_)
 
 ### _Personal Interests_
@@ -138,7 +175,10 @@ Shaded Plot for Climate Model The Shaded Plot for the Climate Model Intercompari
 The detection of wildfire trends can be effectively accomplished through the integration of the Normalized Burn Ratio (NBR) index and the Breaks For Additive Season and Trend (BFAST) algorithm. The NBR index acts as a robust tool for identifying burned areas by analyzing satellite imagery, while BFAST aids in detecting abrupt changes in time-series data, enabling researchers to accurately pinpoint disturbances. Implementing these methods in R allows for the visualization of the number of detected disturbances over time, offering critical insights into wildfire patterns and their implications for ecosystem management and policy planning. [Link](https://github.com/MostafaSaghafi/Bfast_NBR.git)
 
 ## References
--	**Dr. Ahmad Ahmadi**, Associate Professor, Thesis Supervisor, Department of Civil Engineering, University of Shahrood, Iran. [Email: a.ahmadi@shahroodut.ac.ir](a.ahmadi@shahroodut.ac.ir)
--	**Dr. Behnaz Bigdeli**, Assistant Professor, Thesis Supervisor, Department of Photogrammetry and Remote Sensing, University of Shahrood, Iran [Email: bigdeli@shahroodut.ac.ir](bigdeli@shahroodut.ac.ir)
--	**Dr. Nasrin Fathollahzadeh Attar**, Ph.D. of Water Resources Engineering, University of Padova, Italy [Email: nasrin.fathollahzadehattar@unipd.it](nasrin.fathollahzadehattar@unipd.it)
+
+-	**Dr. Ahmad Ahmadi**, Associate Professor, Thesis Supervisor, Department of Civil Engineering, University of Shahrood, Iran. | Email: a.ahmadi@shahroodut.ac.ir
+
+-	**Dr. Behnaz Bigdeli**, Assistant Professor, Thesis Supervisor, Department of Photogrammetry and Remote Sensing, University of Shahrood, Iran | Email: bigdeli@shahroodut.ac.ir
+
+-	**Dr. Nasrin Fathollahzadeh Attar**, Ph.D. of Water Resources Engineering, University of Padova, Italy | Email: nasrin.fathollahzadehattar@unipd.it
 
